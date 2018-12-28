@@ -1,1 +1,8 @@
-This is where I'll put notes for the project
+- Use the explore query to check out the types of responses you'll get using the Foursquare API
+- Look at the available venue types, see if you can correlate the number of one venue type with another
+  - ie areas with tacos tend to also have art shops nearby
+  
+- Is it possible to track the number of check-ins or area trends over time? 
+  - Would like to create a time series of check ins, correlate with #of restaurants and make a food truck map
+- Can get the total number of check-ins for specific venues
+- Can also get the popular hours (days and hours of the week when it's most popular)
